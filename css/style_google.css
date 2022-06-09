@@ -5,7 +5,7 @@
 	text-decoration: none;
 	font-family: arial, sans-serif;
 }
-body{
+.bodycontents{
 	display: flex;
 	flex-direction: column;
 	min-height: 100vh;
