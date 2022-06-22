@@ -23,7 +23,7 @@ nav a{
 	font-weight: 400;
 	color: rgb(0,0,0,0.87);
 	cursor: pointer;
-	padding: 5px 6.7px
+	padding: 5px 6.7px;
 }
 nav a:hover{
 	text-decoration: underline;
