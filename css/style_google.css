@@ -81,13 +81,11 @@ nav button:hover{
 	display: block;
 	margin: 0px auto;
 	width:	323px;
-	margin-top: -38px;
 }
 .search-box{
 	width: 585px;
 	margin:	0px auto;
 	position: relative;
-	margin-top: -50px;
 	text-align: center;
 }
 .search-box .search-input{
@@ -164,7 +162,6 @@ nav button:hover{
 }
 .lang a{
 	margin-left: 5.7px;
-	color: 110434;
 }
 .lang a:hover{
 	text-decoration: underline;
